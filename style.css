@@ -30,6 +30,141 @@ letter-spacing: 0.02em;
 text-align: left;
 color: #757575;
 }
-.nav-list-link:hover, .contacts-list-link":hover{
- col
-}
+
+.contacts-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #757575;
+} 
+    .nav-list-link:hover, .contacts-list-link:hover{
+        color: #2196F3;
+    } 
+    .section-hero-title{
+        font-family: Roboto;
+        font-size: 44px;
+        font-weight: 900;
+        line-height: 60px;
+        letter-spacing: 0.06em;
+        text-align: center;
+        color: white;
+        max-width: 698px;
+        margin: 0 auto;
+
+    }
+    .section-hero{
+        background: #2F303A;
+    }
+    .logo{
+        font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+letter-spacing: 0.03em;
+text-align: left;
+
+font-family: Oleo Script;
+font-size: 26px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+
+    }
+   .header{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    height: 50px;
+   }
+   
+   .nav-list, .contacts-list {
+    display: flex;
+    gap: 50px;
+   }
+   .section-hero{
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+   }
+
+   .section-hero-btn{
+    width: 216px;
+    height: 50px;
+    border-radius: 4px;
+    border: none;
+    color:white;
+    margin: 0 auto;
+    display: block;
+    background-color: #2196F3;
+   }
+   .section-features{
+    padding-top: 94px;
+    padding-bottom: 94px;
+   }
+   .features-list{
+    justify-content: center;
+    display: flex;
+   }
+   .section-work{
+    padding-bottom: 94px;
+   }
+   .work-list{
+    justify-content: center;
+    display: flex;
+   }
+   .section .section-hero-btn{
+    font-family: robo;
+    font-size: 16px;
+    font-weight: 700;
+    line-height:30px;
+    letter-spacing: 0.6em;
+    text-align: center;
+    background-color: #2196F3;
+    display: block;
+    margin: 0 auto;
+   }
+   .features-list{
+    display: flex;
+    gap: 30px;
+   }
+   .section-work{
+    padding-bottom: 94px;
+   }
+   .work-list{
+    display: flex;
+    gap: 30px;
+
+   }
+   .work-title{
+    text-align: center;
+    margin-top: 50px;
+   }
+   .work-title{
+    text-align: center;
+    margin-bottom: 50px;
+   }
+   .team-list{
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   }
+   .footer{
+    background-color: #2F303A;
+    padding-top: 60px;
+    padding-bottom: 60px;
+   }
+   .box{
+    max-width: 1200px;
+    margin: 0 auto;
+   }
+  
+
+  
+    
+   
+    
+ 
