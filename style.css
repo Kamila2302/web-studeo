@@ -164,7 +164,26 @@ text-align: left;
    .logo{
     color: #2196F3;
    }
-   
+   .buttons-list{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 50px;
+   }
+   .portfolio-list{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    gap: 30px;
+
+   }
+   .portfolio-section{
+    padding-top: 94px;
+    padding-bottom: 94px;
+   }
+
+
 
   
 
